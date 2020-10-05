@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/github/followers/m1113r?label=follow&style=social" height="22" title="Follow me" />](https://github.com/m1113r) 
+[<img src="https://img.shields.io/github/followers/m1113r?label=follow&style=for-the-badge" height="22" title="Follow me" />](https://github.com/m1113r) 
 
 Olá, eu sou o Gabriel!
 
