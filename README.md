@@ -1,5 +1,4 @@
 [<img src="https://img.shields.io/github/followers/m1113r?label=follow&style=social" height="22" title="Follow me" />](https://github.com/m1113r) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielmillersilone@gmail.com)
 
 Olá, eu sou o Gabriel!
 
