@@ -3,7 +3,7 @@
 Olá, eu sou o Gabriel!
 
 - 📚 Estudante de Analise e desenvolvimento de sistemas pela Universidade Estadual de Campinas - UNICAMP.
-- 🦏 Atualmente estou focado em aprender Python.
+- 🦏 Atualmente estou focado em aprender Java.
 - 🤝 Gosto de trabalhar em equipe e transmitir meu conhecimento de forma simples e direta.
 
 <p align="center"> 
