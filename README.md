@@ -6,7 +6,7 @@
 <hr />
 
 <p align="center" >
-<img src="http://www.areco.com.br/wp-content/uploads/2020/01/GIF.gif" />
+<img src="http://www.d2mcomunicacao.com.br/wp-content/uploads/2018/10/produzir-conteudo.gif"/>
 </p>
 <hr />
 
