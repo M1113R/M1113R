@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/github/followers/m1113r?label=follow&style=for-the-badge" height="26" title="Follow me" />](https://github.com/m1113r) 
 <br />
 <h3 align="center" >Gabriel Miller Silone</h3>
-<p align="center" >Production Control and Continuous Improvement Intern</p>
+<p align="center" >Web Developer</p>
 <hr />
 
 <p align="center" >
