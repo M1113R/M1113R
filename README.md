@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/github/followers/m1113r?label=follow&style=for-the-badge" height="26" title="Follow me" />](https://github.com/m1113r) 
 <br />
 <h3 align="center" >Gabriel Miller Silone</h3>
-<p align="center" >Web Developer</p>
+<p align="center" >Automation System Analyst</p>
 <hr />
 
 <p align="center" >
@@ -22,13 +22,19 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height="30"/>
+  <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" height="30"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+  
+  
 </p>
 
 <p align="left">
   <img alt="VsCode" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" height="30"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30"/>
 </p>
 
 <hr />
@@ -41,6 +47,5 @@
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=M1113r&show_icons=true&theme=dracula" />
-  <br />
-  <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1113r&layout=compact&theme=dracula"/>
+  <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1113r&layout=compact&theme="/>  
 </p>
