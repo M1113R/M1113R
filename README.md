@@ -42,5 +42,5 @@
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=M1113r&show_icons=true&theme=dracula" />
   <br />
-  <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1113r&layout=compact&theme=dracula" />
+  <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1113r&layout=compact&theme=dracula"/>
 </p>
