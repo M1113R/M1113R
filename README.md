@@ -3,11 +3,7 @@
 <br />
 <h3 align="center" >Gabriel Miller Silone</h3>
 <p align="center" >Automation System Analyst</p>
-<hr />
 
-<p align="center" >
-<img src="http://www.d2mcomunicacao.com.br/wp-content/uploads/2018/10/produzir-conteudo.gif"/>
-</p>
 <hr />
 
 ### :red_haired_man: About me:
