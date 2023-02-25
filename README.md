@@ -46,5 +46,3 @@
 ### :telephone_receiver: Contacts: 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Miller-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmillersilone/)](https://www.linkedin.com/in/gabrielmillersilone/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmillersilone@gmail.com-9c0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmillersilone@gmail.com)](mailto:gabrielmillersilone@gmail.com)
-
-<hr />
