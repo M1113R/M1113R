@@ -13,8 +13,9 @@
 
 <hr />
 
-![image](https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif)
-
+<p align="center">
+  <img width="300" height="300" src="https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif">
+</p>
 <hr />
 
 ### :technologist: Technologies: 
