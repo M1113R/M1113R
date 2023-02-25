@@ -13,7 +13,7 @@
 
 <hr />
 
-![cat]([http://url/to/img.png](https://drive.google.com/file/d/1qBop8ztjkOVQ43vuyUBhIDkbsZEBqTXB/view?usp=sharing))
+[http://url/to/img.png](https://drive.google.com/file/d/1qBop8ztjkOVQ43vuyUBhIDkbsZEBqTXB/view?usp=sharing)
 
 <hr />
 
