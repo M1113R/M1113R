@@ -9,7 +9,6 @@
 ### :red_haired_man: About me:
 
 - 📚 Graduated in Analyses and Systems Development at University of Campinas - UNICAMP.
-- 🦏 I'm currently focused on learning Web Development.
 
 <hr />
 
@@ -31,7 +30,6 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
 </p>
 
 <p align="left">
