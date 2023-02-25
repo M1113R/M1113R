@@ -13,8 +13,9 @@
 
 <hr />
 
-![image](https://user-images.githubusercontent.com/48865229/221376468-473eca7a-8066-4e8e-84a3-53bf8bea8cc7.png)
-
+<p align="center">
+[![image](https://user-images.githubusercontent.com/48865229/221376468-473eca7a-8066-4e8e-84a3-53bf8bea8cc7.png)](https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif)
+</p>
 <hr />
 
 ### :technologist: Technologies: 
