@@ -12,10 +12,9 @@
 - 🦏 I'm currently focused on learning Web Development.
 
 <hr />
-
-<div align="center">
+<img align="center">
   [![image](https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif)]
-</div>
+</img>
 <hr />
 
 ### :technologist: Technologies: 
