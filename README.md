@@ -13,7 +13,7 @@
 
 <hr />
 
-[http://url/to/img.png](https://drive.google.com/file/d/1qBop8ztjkOVQ43vuyUBhIDkbsZEBqTXB/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/48865229/221376468-473eca7a-8066-4e8e-84a3-53bf8bea8cc7.png)
 
 <hr />
 
