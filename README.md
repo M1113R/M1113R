@@ -15,7 +15,7 @@
 
 <div align="center">
   <img align="center">
-    ![image](https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif)
+  [![image](https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif)]
   </img>
 </div>
 <hr />
