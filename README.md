@@ -13,11 +13,11 @@
 
 <hr />
 
-<p align="center">
-  
-![image](https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif)
-  
-</p>
+<div align="center">
+  <img align="center">
+    ![image](https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif)
+  </img>
+</div>
 <hr />
 
 ### :technologist: Technologies: 
