@@ -12,11 +12,6 @@
 
 <hr />
 
-<p align="center">
-  <img width="300" height="300" src="https://media.tenor.com/6hVEKMxmQLUAAAAC/cat-laptop.gif">
-</p>
-<hr />
-
 ### :technologist: Technologies: 
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"/>
